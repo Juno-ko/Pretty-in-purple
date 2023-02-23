@@ -1,3 +1,6 @@
+# Pretty-in-purple
+Gnome Shell theme based on Gradience-project's Pretty Purple-theme.
+
 # GNOME Shell Sass
 GNOME Shell Sass is a project intended to allow the sharing of the
 theme sources in sass between gnome-shell and other projects like
@@ -14,4 +17,3 @@ License, version 2 or later. See the [COPYING][license] file for details.
 [shell-subtree]: https://gitlab.gnome.org/GNOME/gnome-shell/tree/HEAD/data/theme/gnome-shell-sass
 [sass-repo]: https://gitlab.gnome.org/GNOME/gnome-shell-sass
 [license]: COPYING
-# Pretty-in-purple
