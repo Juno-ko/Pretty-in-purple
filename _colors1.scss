@@ -14,7 +14,7 @@ $bg_color: if($variant == 'light', $light_2, lighten($base_color, 5%));
 $fg_color: if($variant == 'light', transparentize(black, .2), white);
 
 $selected_fg_color: $light_1;
-$selected_bg_color: $blue_3;
+$selected_bg_color: $red_3;
 $selected_borders_color: if($variant== 'light', darken($selected_bg_color, 15%), darken($selected_bg_color, 30%));
 
 $borders_color: if($variant == 'light', transparentize($fg_color, .5), transparentize($fg_color, .9));
